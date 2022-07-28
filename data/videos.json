@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3b0uAJv_I_QOfYbqUs7R4cryzLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ma67yOdMQfs"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-23T17:00:15Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+        "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean — or favorite place in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-23T17:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-bnq83ujW3OlQp9ru36wmFnIXNA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mmbwmhH9RWk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T19:19:46Z",
+        "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
+        "title": "Pro Surfers charge MASSIVE swell in Maui !!! Ma&#39;alaea GOING OFF !!! (Freight Trains)",
+        "description": "The biggest summer swell to hit Maui in 40 years and pro surfers score the best Ma'alaea \"Freight Trains\" ever! This is raw footage ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmbwmhH9RWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmbwmhH9RWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmbwmhH9RWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BEEFS T.V.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T19:19:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9KZgz0OaDHtLJAgoHk7gotbqz7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xho2fdFTlm4"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T03:39:26Z",
+        "channelId": "UCsG5dkqFUHZO6eY9uOzQqow",
+        "title": "The Pick-Up is BACK at the Vans US Open of Surfing.",
+        "description": "Stab and Van's variety show will be hosted by Dylan Graves, Harry Bryant, and Cori Stephans at the Vans US Open of Surfing in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xho2fdFTlm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xho2fdFTlm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xho2fdFTlm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stab: We like to surf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T03:39:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GGSLQuHSABDhjDTwDFvJiA2THog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hR0YEQrzGvc"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T00:22:34Z",
+        "channelId": "UCG377RI4bT-5dvkxo0VRpfQ",
+        "title": "Tips to Improve Your Surfing",
+        "description": "Check out these tips to incorporate in your surfing progression. #shorts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hR0YEQrzGvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hR0YEQrzGvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hR0YEQrzGvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "San Diego Surf School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T00:22:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gzbsP_CuPibMemdWwrNb4yFnQJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oyKGbjK3bQM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T17:41:38Z",
+        "channelId": "UC4i3-yfVazfuqwoz71T79Sw",
+        "title": "Out Front: Margaret River",
+        "description": "Let filmmaker and photographer Tom Pearsall open your heart and mind to this amazing surf zone. The filmmaker would like to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oyKGbjK3bQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oyKGbjK3bQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oyKGbjK3bQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Surfline",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T17:41:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XnBiknEjR9a1alPq6uocTD8taUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4QtuM2ugyMM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-25T19:00:01Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "BEST SURF TRIP IN THE WORLD!?",
+        "description": "STAY PSYCHED MERCHANDISE: https://www.jamieobrienshop.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4QtuM2ugyMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4QtuM2ugyMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4QtuM2ugyMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie O'Brien",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-25T19:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f1Fc94uJKvzXIojSmenFDP1ct_8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pmlzdeZuAk8"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-27T14:28:13Z",
+        "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
+        "title": "What Surfing Is ACTUALLY Like as a Beginner",
+        "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Travis Marziani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-27T14:28:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OKoGD6GJnycysyqCH6p2rZ5EYYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dRBSENexzDM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T09:26:03Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "@Jamie O&#39;Brien Soft Top Barrel at #Pipeline 🤙#short #shorts #shortsvideo",
+        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dRBSENexzDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dRBSENexzDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dRBSENexzDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Kincade Media - Waves of the World ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T09:26:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pp7yqX45H8Mr81m50XbmmcS1Yhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6lU-xYRjFA"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-28T18:58:35Z",
+        "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+        "title": "The World Loves Surfing | Best Of Red Bull Surfing 2021",
+        "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Bull Surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-28T18:58:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-9F-k92Do2_-H7LbLcO8HGZh5L8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W7h-Yho8EB0"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-15T15:21:45Z",
+        "channelId": "UCqhnX4jA0A5paNd1v-zEysw",
+        "title": "GoPro: Top 10 Surf Moments",
+        "description": "Celebrate International Surf Day with GoPro's Top 10 Surf Moments. Shot 100% on GoPro: http://bit.ly/2wUMwfI Get stoked and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W7h-Yho8EB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W7h-Yho8EB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W7h-Yho8EB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoPro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-15T15:21:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bVh6Wh6XdI4T61EemT-VAYCL0L8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VC5epMyon6c"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T16:00:17Z",
+        "channelId": "UCo3jL24p7R40vAD0TvZtTTA",
+        "title": "Surfing FIRING Point Breaks In Cabo!",
+        "description": "In this episode, the crew continues their Mexico journey by surfing the last days of the Code Red south swell, daring Forest to eat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VC5epMyon6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VC5epMyon6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VC5epMyon6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sickos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T16:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QVWMfuQ9zfWH7qUduP3kaMkjHUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eSWST13stO4"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-27T15:00:32Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Kincade Media - Waves of the World ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-27T15:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xy1jpKTJ3XgyeM2Edcn6btKRdkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iKDhxjGrcvA"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-12T19:08:14Z",
+        "channelId": "UC0uzP4XsyVMGr7NwBUYv4mA",
+        "title": "GIRL&#39;S SURF TRIP IN MENTAWAIS",
+        "description": "Hey everyone! I recently spend 10 days in the Mentawais with some girlfriends and we had the best time. Some people who don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKDhxjGrcvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKDhxjGrcvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKDhxjGrcvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eryn Krouse",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-12T19:08:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aiwyZhPjjTKdXF6N5h0yOaI5_Bk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WE-NY9VRmGE"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-26T00:06:51Z",
+        "channelId": "UC_F4Iy5korq2mEWZDQhG07w",
+        "title": "CODE RED TAHITI PART 2 SURFING SECRET SPOTS!",
+        "description": "Click here https://ritual.com/20KOA and use code 20KOA to get 20% off your first month with Ritual! #ritualpartner These ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WE-NY9VRmGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WE-NY9VRmGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WE-NY9VRmGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Koa Rothman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-26T00:06:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2roNPHwqpmuioMambMTa01vRRBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oVSJdmalJ6w"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-18T19:29:43Z",
+        "channelId": "UCFdhu2ZZ7GBbGliV8tZ0UJw",
+        "title": "POV SURF - FIRING FRENCH BEACH BREAK",
+        "description": "Summer surf in France with beautiful conditions and glassy waves in Lacanau. First time I've been there. Shout out my bro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oVSJdmalJ6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oVSJdmalJ6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oVSJdmalJ6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kai Noa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-18T19:29:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rU8reqfNX9XDhLQe8Qa95zgT4_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SbucIbyLBDk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-22T09:43:55Z",
+        "channelId": "UCVwMJFYbGfl-t1g42KuHZRg",
+        "title": "JE SURF UNE VAGUE ÉTERNELLE À MONTRÉAL ! (très surprenante)",
+        "description": "Je découvre qu'on peut surfer une vague éternelle au Canada ! Pour apprendre ou progresser un surf, notre programme x Jordan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SbucIbyLBDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SbucIbyLBDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbucIbyLBDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HOA SURF",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-22T09:43:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c5ACqHPxx4XuSVwNXWfZPhWvdWc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6GUtd7f1_Xo"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-01T20:01:55Z",
+        "channelId": "UCVk7uRN7g-q_uHMaAjHxk8A",
+        "title": "THE GIRLS OF SURFING XIX",
+        "description": "The Girls of Surfing 2018 edition Join the page here : https://www.facebook.com/thegirlsofsurfing/ Instagram @jolieoligny Twitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6GUtd7f1_Xo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6GUtd7f1_Xo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6GUtd7f1_Xo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "thegirlsofsurfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-01T20:01:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IHYU5jV2BHW8dwCrVk5Y1DfQ7VU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PBmijBB57Go"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-03T15:53:15Z",
+        "channelId": "UCvOh9i-BOFzu51rpj33fGag",
+        "title": "How to Surf | 7 Tips beginners need to know to Start Surfing",
+        "description": "Planning on learning how to surf? Here are 7 things that you need to learn about. Check out our NEW* Online Coaching ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PBmijBB57Go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PBmijBB57Go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PBmijBB57Go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Barefoot Surf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-03T15:53:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sjSFK-3_ZXJd4fztCV4-isxeVq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OHpG_rNj8eQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-29T00:50:50Z",
+        "channelId": "UCLdPicN16eAKPKir8EY1UXQ",
+        "title": "How To Surf From Beginner To Intermediate In 20 Minutes | Step by Step Tutorial",
+        "description": "How to surf through the beginner stage to the intermediate stage of surfing is a stage that millions of people find themselves at.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OHpG_rNj8eQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OHpG_rNj8eQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OHpG_rNj8eQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kale Brock",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-29T00:50:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AXIkBEsAav7nCukOnZ_fTNCq5d0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N6ZSJpFi634"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-26T22:03:05Z",
+        "channelId": "UCPmKDdmHl5F7EvJGFoSHOwg",
+        "title": "EVOLUÇÃO DO SUBWAY SURFERS",
+        "description": "Baixe o JumpTask agora: https://jmpt.io/Fiaspo Hoje vamos ver a incrível evolução do Subway Surfers, desde a sua primeira ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6ZSJpFi634/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6ZSJpFi634/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6ZSJpFi634/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fiaspo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-26T22:03:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k-3FqnfFr8GkgdXW3oqoDZMfh2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Smgql_DESn8"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T10:59:56Z",
+        "channelId": "UC9rMiEjNaCSsebs31MRDCRA",
+        "title": "Stray Kids &quot;Surfin&#39; (리노, 창빈, 필릭스)(Surfin&#39; (Lee Know, Changbin, Felix))&quot; Video",
+        "description": "Stray Kids(스트레이 키즈) \"Surfin' (리노, 창빈, 필릭스)(Surfin' (Lee Know, Changbin, Felix))\" Video Stray Kids THE 2ND ALBUM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Smgql_DESn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stray Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T10:59:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XKKaElnF-4bE0LfaVKuVAayO8S4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-XMc_EJkbV0"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-27T06:01:26Z",
+        "channelId": "UCZcor6UnXaacPbwtvFILK4A",
+        "title": "Lacanau Surf Report - Mercredi 27 Juillet 8H",
+        "description": "Houle moyenne à longue ONO-NO en baisse, vent offshore faible. Plus de surf report pour Lacanau ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-XMc_EJkbV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-XMc_EJkbV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-XMc_EJkbV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lacanau Surf Info",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-27T06:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rFOunp98galU6M5Gv2-jxznlCLQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nS9m_3qQXM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-30T17:38:52Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵 4k (ASMR) Teahupoo April/May 2022 - Waves of the World Surfing 🌊",
+        "description": "Filmed by Boris Martinet: https://www.instagram.com/bogus689. Official Waves of the World live stream! Fall asleep or just relax ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nS9m_3qQXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nS9m_3qQXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nS9m_3qQXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Kincade Media - Waves of the World ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-30T17:38:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M2OGRLvs0in2wzfesfg7WnhOZkM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u9e2ELJv-Jk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-26T19:09:21Z",
+        "channelId": "UCJBWZDkunrjWh50Etxdys2g",
+        "title": "SURFING CODE RED SLABS IN SAN DIEGO",
+        "description": "SURFING CODE RED SLABS IN SAN DIEGO. We are back with Part Two from our CODE RED SWELL series in San Diego.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u9e2ELJv-Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u9e2ELJv-Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u9e2ELJv-Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SoCal Surfer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-26T19:09:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vj6QtmHXcBJV0miPidRG2zPAzW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vCL2Inb7iwk"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-05T23:46:47Z",
+        "channelId": "UCsXYYt9hmwvaIl6v73JHKWw",
+        "title": "Is Surfing Malibu Worth the Crowd Factor?",
+        "description": "Would you surf it? It's no secret that Malibu (Surfrider Beach) gets crowded but do days like this make it worth it? I headed to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brad Jacobson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-05T23:46:47Z"
+      }
+    }
+  ]
+}
