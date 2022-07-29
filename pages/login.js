@@ -5,12 +5,28 @@ import Router, { useRouter } from 'next/router';
 import { magic } from '../lib/magic-client';
 
 import styles from '../styles/login.module.css';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 const Login = () => {
-  const router = useRouter();
   const [userMsg, setUserMsg] = useState('');
   const [email, setEmail] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
+
+  const router = useRouter();
+
+  useEffect(() => {
+    const handleComplete = () => {
+      setIsLoading(false);
+    };
+
+    router.events.on('routeChangeComplete', handleComplete);
+    router.events.on('routeChangeError', handleComplete);
+
+    return () => {
+      router.events.off('routeChangeComplete', handleComplete);
+      router.events.off('routeChangeError', handleComplete);
+    };
+  }, [router]);
 
   const handleOnChangeEmail = (e) => {
     setUserMsg('');
@@ -23,23 +39,26 @@ const Login = () => {
     if (email) {
       setUserMsg('');
       if (email === 'aymeric.pilaert@hotmail.fr') {
-        // router.push('/');
-        // log in a user by their email
-
         try {
+          setIsLoading(true);
           const didToken = await magic.auth.loginWithMagicLink({
             email,
           });
+          if (didToken) {
+            router.push('/');
+          }
         } catch (error) {
           // Handle errors if required!
           console.error('Something went wrong logging in', error);
+          setIsLoading(false);
         }
       } else {
+        setIsLoading(false);
         setUserMsg('Something went wrong logging in', error);
       }
     } else {
+      setIsLoading(false);
       setUserMsg('Enter a valid email address');
-      //show user message
     }
   };
 
@@ -80,7 +99,7 @@ const Login = () => {
           />
           <p className={styles.userMsg}> {userMsg} </p>
           <button onClick={handleLoginWithEmail} className={styles.loginBtn}>
-            Sign In
+            {isLoading ? 'Loading...' : 'Sign In'}
           </button>
         </div>
       </main>
