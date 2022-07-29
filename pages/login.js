@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import Router, { useRouter } from 'next/router';
+import { magic } from '../lib/magic-client';
 
 import styles from '../styles/login.module.css';
 import { useState } from 'react';
@@ -16,15 +17,25 @@ const Login = () => {
     setEmail(e.target.value);
   };
 
-  const handleLoginWithEmail = (e) => {
+  const handleLoginWithEmail = async (e) => {
     e.preventDefault();
 
     if (email) {
       setUserMsg('');
       if (email === 'aymeric.pilaert@hotmail.fr') {
-        router.push('/');
+        // router.push('/');
+        // log in a user by their email
+
+        try {
+          const didToken = await magic.auth.loginWithMagicLink({
+            email,
+          });
+        } catch (error) {
+          // Handle errors if required!
+          console.error('Something went wrong logging in', error);
+        }
       } else {
-        setUserMsg('Something went wrong logging in');
+        setUserMsg('Something went wrong logging in', error);
       }
     } else {
       setUserMsg('Enter a valid email address');
