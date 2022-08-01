@@ -8,7 +8,7 @@ import { useEffect, useState } from 'react';
 import { magic } from '../../lib/magic-client';
 
 const NavBar = () => {
-  const [showDropdown, setShowDropDown] = useState(false);
+  const [showDropdown, setShowDropdown] = useState(false);
   const [username, setUsername] = useState('');
 
   const router = useRouter();
@@ -25,7 +25,7 @@ const NavBar = () => {
 
   const handleShowDropdown = (e) => {
     e.preventDefault();
-    setShowDropDown(!showDropdown);
+    setShowDropdown(!showDropdown);
   };
 
   const handleSignOut = (e) => {
@@ -96,12 +96,9 @@ const NavBar = () => {
             {showDropdown && (
               <div className={styles.navDropdown}>
                 <div>
-                  <Link>
-                    <a className={styles.linkName} onClick={handleSignOut}>
-                      Sign out
-                    </a>
-                  </Link>
-
+                  <a className={styles.linkName} onClick={handleSignOut}>
+                    Sign out
+                  </a>
                   <div className={styles.lineWrapper}></div>
                 </div>
               </div>
