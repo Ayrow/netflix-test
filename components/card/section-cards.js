@@ -1,7 +1,6 @@
-import React from 'react'
-import Card from './card'
-
-import styles from './section-cards.module.css'
+import Link from 'next/link';
+import Card from './card';
+import styles from './section-cards.module.css';
 
 const SectionCards = ({ title, videos = [], size }) => {
   return (
@@ -10,12 +9,14 @@ const SectionCards = ({ title, videos = [], size }) => {
       <div className={styles.cardWrapper}>
         {videos.map((video, index) => {
           return (
-            <Card key={index} id={index} imgUrl={video.imgUrl} size={size} />
-          )
+            <Link key={index} href={`/video/${video.id}`}>
+              <Card id={index} imgUrl={video.imgUrl} size={size} />
+            </Link>
+          );
         })}
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default SectionCards
+export default SectionCards;

@@ -54,7 +54,7 @@ const Login = () => {
         }
       } else {
         setIsLoading(false);
-        setUserMsg('Something went wrong logging in', error);
+        setUserMsg('Something went wrong logging in');
       }
     } else {
       setIsLoading(false);
