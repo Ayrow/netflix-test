@@ -2,13 +2,12 @@ import { useRouter } from 'next/router';
 import Modal from 'react-modal';
 import styles from '../../styles/video.module.css';
 
-import cls from 'classnames';
+import clsx from 'classnames';
 
-Modal.setAppElement('#_next');
+Modal.setAppElement('#__next');
 
-const Video = () => {
-  const router = useRouter();
-
+export async function getStaticProps() {
+  //data to fetch from API
   const video = {
     title: 'Hi cute dog',
     publishTime: '1990-01-01',
@@ -16,6 +15,27 @@ const Video = () => {
     channelTitle: 'Paramount Pictures',
     viewCount: 10000,
   };
+
+  return {
+    props: {
+      video,
+    },
+
+    revalidate: 10,
+  };
+}
+
+export async function getStaticPaths() {
+  const listOfVideos = ['mYfJxlgR2jw', '4zH5iYM4wJo', 'KCPEHsAViiQ'];
+
+  const paths = listOfVideos.map((videoId) => ({
+    params: { videoId },
+  }));
+  return { paths, fallback: 'blocking' };
+}
+
+const Video = ({ video }) => {
+  const router = useRouter();
 
   const { title, publishTime, description, channelTitle, viewCount } = video;
 
@@ -35,8 +55,8 @@ const Video = () => {
             width='100%'
             height='360'
             src={`http://www.youtube.com/embed/${router.query.videoId}?autoplay=0&origin=http://example.com&controls=0&rel=0`}
-            frameborder='0'
-          />
+            // frameborder='0'
+          ></iframe>
         </div>
         <div className={styles.modalBody}>
           <div className={styles.modalBodyContent}>
@@ -46,11 +66,11 @@ const Video = () => {
               <p className={styles.description}> {description} </p>
             </div>
             <div className={styles.col2}>
-              <p className={cls(styles.subText, styles.subTextWrapper)}>
+              <p className={clsx(styles.subText, styles.subTextWrapper)}>
                 <span className={styles.infoTextKey}>Cast:</span>
                 <span className={styles.channelTitle}>{channelTitle}</span>
               </p>
-              <p className={cls(styles.subText, styles.subTextWrapper)}
+              <p className={clsx(styles.subText, styles.subTextWrapper)}>
                 <span className={styles.textColor}>ViewCount:</span>
                 <span className={styles.channelTitle}>{viewCount}</span>
               </p>
