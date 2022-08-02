@@ -4,21 +4,26 @@ import styles from '../../styles/video.module.css';
 
 import clsx from 'classnames';
 
+import { getYoutubeVideoById } from '../../lib/video';
+
 Modal.setAppElement('#__next');
 
-export async function getStaticProps() {
+export async function getStaticProps(context) {
   //data to fetch from API
-  const video = {
-    title: 'Hi cute dog',
-    publishTime: '1990-01-01',
-    description: 'A big red dog',
-    channelTitle: 'Paramount Pictures',
-    viewCount: 10000,
-  };
+  // const video = {
+  //   title: 'Hi cute dog',
+  //   publishTime: '1990-01-01',
+  //   description: 'A big red dog',
+  //   channelTitle: 'Paramount Pictures',
+  //   viewCount: 10000,
+  // };
+
+  const videoId = context.params.videoId;
+  const videoArray = await getYoutubeVideoById(videoId);
 
   return {
     props: {
-      video,
+      video: videoArray.length > 0 ? videoArray[0] : {},
     },
 
     revalidate: 10,
@@ -37,7 +42,13 @@ export async function getStaticPaths() {
 const Video = ({ video }) => {
   const router = useRouter();
 
-  const { title, publishTime, description, channelTitle, viewCount } = video;
+  const {
+    title,
+    publishTime,
+    description,
+    channelTitle,
+    statistics: { viewCount } = { viewCount: 0 },
+  } = video;
 
   return (
     <div className={styles.container}>
@@ -67,11 +78,11 @@ const Video = ({ video }) => {
             </div>
             <div className={styles.col2}>
               <p className={clsx(styles.subText, styles.subTextWrapper)}>
-                <span className={styles.infoTextKey}>Cast:</span>
+                <span className={styles.infoTextKey}>Cast: </span>
                 <span className={styles.channelTitle}>{channelTitle}</span>
               </p>
               <p className={clsx(styles.subText, styles.subTextWrapper)}>
-                <span className={styles.textColor}>ViewCount:</span>
+                <span className={styles.textColor}>ViewCount: </span>
                 <span className={styles.channelTitle}>{viewCount}</span>
               </p>
             </div>
