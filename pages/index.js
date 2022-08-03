@@ -6,6 +6,8 @@ import styles from '../styles/Home.module.css';
 
 import { getPopularVideos, getVideos } from '../lib/video';
 
+import { startFetchMyQuery } from '../lib/db/hasura';
+
 export async function getServerSideProps() {
   const disneyVideos = await getVideos('disney trailer');
   const productivityVideos = await getVideos('productivity');
@@ -22,6 +24,8 @@ export default function Home({
   productivityVideos,
   popularVideos,
 }) {
+  startFetchMyQuery();
+
   return (
     <div className={styles.container}>
       <Head>
