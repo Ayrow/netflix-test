@@ -43,18 +43,19 @@ const NavBar = () => {
   };
 
   useEffect(() => {
-    async function getUsername() {
+    const applyUsernameInNav = async () => {
       try {
         const { email, issuer } = await magic.user.getMetadata();
         const didToken = await magic.user.getIdToken();
         if (email) {
           setUsername(email);
+          setDidToken(didToken);
         }
       } catch (error) {
-        console.log('Error retrieving email:', error);
+        console.error('Error retrieving email', error);
       }
-    }
-    getUsername();
+    };
+    applyUsernameInNav();
   }, []);
 
   return (
